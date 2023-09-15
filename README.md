@@ -3,7 +3,7 @@
 ## Usage
 
 ```bash
-rustc <i>.rs -o ./bin/output && ./bin/output
+rustc ./src/<i>.rs -o ./bin/output && ./bin/output
 ```
 
 ## Results
